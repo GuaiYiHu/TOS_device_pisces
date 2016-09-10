@@ -1,0 +1,3 @@
+post-build=Xiaomi/cm_pisces/pisces:4.4.4/KTU84Q/00b9153a6e:userdebug/test-keys
+post-timestamp=1424264069
+pre-device=pisces

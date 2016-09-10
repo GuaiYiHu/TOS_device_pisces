@@ -1,0 +1,9 @@
+ro.qrom.beaconkey=0M000V5PH01B6QQD
+ro.qrom.product.device=pisces
+ro.qrom.product.device.brand=xiaomi
+ro.qrom.build.brand=tos
+ro.qrom.build.os=android4.4.4
+ro.qrom.otapath=/storage/sdcard0
+
+qrom_disposeIcon_enable=1
+qrom_permission_enable=1
